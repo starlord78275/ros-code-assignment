@@ -29,10 +29,11 @@ A web-based tool for validating ROS/ROS2 packages and running robotic arm simula
 - g++ (C++ syntax checking)
 - Gazebo (Robot simulation)
 
-## 📁 Project Structure
+
 
 ```
 ```
+## 📁 Project Structure
 ros-code-checker/
 ├── backend/
 │   ├── code_checker.py       # Main validation logic
