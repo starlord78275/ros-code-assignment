@@ -401,21 +401,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## 🙏 Acknowledgments
-
-- **MavenAI Technologies** - For the internship opportunity
-- **ROS Community** - Excellent documentation and support
-- **Open Robotics** - For ROS2 and Gazebo
-- **React Team** - Amazing frontend framework
-- **Flask Community** - Simple and powerful web framework
-
-## 🔗 Resources
-
-- [ROS2 Documentation](https://docs.ros.org/)
-- [Gazebo Documentation](https://gazebosim.org/)
-- [Flask Documentation](https://flask.palletsprojects.com/)
-- [React Documentation](https://react.dev/)
-- [Python PEP 8 Style Guide](https://peps.python.org/pep-0008/)
 
 ---
 
