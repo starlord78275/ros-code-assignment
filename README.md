@@ -1,4 +1,4 @@
-```markdown
+
 # ROS Code Checker & Simulator
 
 A web-based tool for validating ROS/ROS2 packages and running robotic arm simulations. Built for MavenAI Technologies Robotics Internship.
@@ -31,7 +31,7 @@ A web-based tool for validating ROS/ROS2 packages and running robotic arm simula
 
 
 
-```
+
 ```
 ## 📁 Project Structure
 ros-code-checker/
@@ -67,6 +67,7 @@ ros-code-checker/
 ### Step 1: Install ROS2 Jazzy (Ubuntu 24.04)
 
 ```
+```
 # Set up locale
 sudo apt update && sudo apt install locales
 sudo locale-gen en_US en_US.UTF-8
@@ -97,9 +98,10 @@ sudo apt install python3-rosdep python3-colcon-common-extensions
 sudo rosdep init
 rosdep update
 ```
+```
 
 **For Ubuntu 22.04, use ROS2 Humble instead:**
-```
+
 sudo apt install ros-humble-desktop
 echo "source /opt/ros/humble/setup.bash" >> ~/.bashrc
 source ~/.bashrc
@@ -313,17 +315,6 @@ mkdir -p uploads
 chmod 755 uploads
 ```
 
-## 🎥 Demo Video
-
-[Demo video link will be added here]
-
-**Video Contents:**
-- Project overview and features
-- Uploading correct package → validation passes
-- Uploading faulty package → error detection
-- Running simulation with valid package
-- Code walkthrough
-
 ## 🏗️ Development
 
 ### Running Tests
@@ -370,7 +361,7 @@ Edit `frontend/src/App.css` for styling or `frontend/src/App.js` for functionali
 
 ## 👨‍💻 Author
 
-Built by [Your Name] for MavenAI Technologies Robotics Internship
+Built by Nitin Gavande for MavenAI Technologies Robotics Internship
 
 **Contact:**
 - Email: bhimgavande.777@.com
@@ -405,4 +396,4 @@ SOFTWARE.
 ---
 
 **⭐ If you found this project helpful, please give it a star on GitHub!**
-```
+
